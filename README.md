@@ -2,10 +2,6 @@
 
 Boas vindas ao API do AllBooks!
 
-Alteração para fins de prática via pagina do github
-Alteração via VS Code
-Teste de alteração
-
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
